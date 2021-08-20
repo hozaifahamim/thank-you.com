@@ -1,0 +1,26 @@
+
+body{
+  font-family: 'Noto Sans JP', sans-serif;
+  background-color: #05214d;
+  color: #ffffff;
+  border: 40px solid #ff0d00;
+  border-top: 0px;
+  text-align: center;
+}
+
+p{
+  padding-top: 2%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form{
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#sub{
+  background-color: #00ffe1;
+  height: 30px;
+  border-radius: 10px;
+}
